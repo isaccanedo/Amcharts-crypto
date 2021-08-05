@@ -1,1 +1,1 @@
-# Amcharts project
+# Amcharts Crypto
